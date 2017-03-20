@@ -9,8 +9,8 @@ I decided to  follow this [tutorial](https://JavaScript30.com) to enhace my java
 
 ### `checklist`
 
-1. [x]  ~~[JavaScript Drum Kit](https://github.com/chinmoyDebnath/JS30/tree/master/drums)~~
-2. [ ] [JS + CSS Clock](https://github.com/chinmoyDebnath/JS30/tree/master/clock) 
+1. [x] [JavaScript Drum Kit](https://github.com/chinmoyDebnath/JS30/tree/master/drums)
+2. [x] [JS + CSS Clock](https://github.com/chinmoyDebnath/JS30/tree/master/clock) 
 3. [ ] Playing with CSS Variables and JS] 
 4. [ ] Array Cardio, Day 1 
 5. [ ] Flex Panels Image Gallery 
