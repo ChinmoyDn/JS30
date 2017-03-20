@@ -67,6 +67,10 @@
       transform-origin: 100%;
     }
 
+    .no-transition{
+      transition: none;
+    }
+
   </style>
 
   <script>
@@ -77,22 +81,37 @@
   function setTime() {
     const transform = function(element, degrees){
       element.style.transform = `rotate(${degrees}deg)`
-    }
+    };
     const time = new Date();
     const sec = time.getSeconds();
     const secDegree = ((sec / 60) * 360) + 90;
+    if(sec === 59 ) {
+      secondHand.classList.add('no-transition');
+    }else if(sec === 0){
+      secondHand.classList.remove('no-transition');
+    }
     transform(secondHand, secDegree);
 
     const mins = time.getMinutes();
     const minDegree = ((mins / 60) * 360) + 90; 
+    if(mins === 59 ) {
+      minHand.classList.add('no-transition');
+    }else if(mins === 0){
+      minHand.classList.remove('no-transition');
+    }
     transform(minHand, minDegree);
 
     const hours = time.getHours();
     const hourDegree = ((hours / 12) * 360) + 90; 
+    if(mins === 11 ) {
+      hourHand.classList.add('no-transition');
+    }else if(mins === 0){
+      hourHand.classList.remove('no-transition');
+    }
     transform(hourHand, hourDegree);
   }
   
-  setInterval(setTime, 1000);
+  var I = setInterval(setTime, 1000);
 
   </script>
 </body>
