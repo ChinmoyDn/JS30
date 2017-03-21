@@ -11,8 +11,8 @@ I decided to  follow this [tutorial](https://JavaScript30.com) to enhace my java
 
 1. [x] [JavaScript Drum Kit](https://github.com/chinmoyDebnath/JS30/tree/master/drums)
 2. [x] [JS + CSS Clock](https://github.com/chinmoyDebnath/JS30/tree/master/clock)
-3. [x] [Playing with CSS Variables and JS](https://github.com/chinmoyDebnath/JS30/tree/master/Array%20Cardio%20Day%201)
-4. [ ] Array Cardio, Day 1
+3. [ ] Playing with CSS Variables and JS
+4. [x] [Array Cardio, Day 1](https://github.com/chinmoyDebnath/JS30/tree/master/Array%20Cardio%20Day%201)
 5. [ ] Flex Panels Image Gallery
 6. [ ] Ajax Type Ahead
 7. [ ] Array Cardio, Day 2
