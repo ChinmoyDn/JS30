@@ -14,7 +14,7 @@ I decided to  follow this [tutorial](https://JavaScript30.com) to enhace my java
 3. [x] [Playing with CSS Variables and JS](https://github.com/chinmoyDebnath/JS30/tree/master/css%20variables)
 4. [x] [Array Cardio, Day 1](https://github.com/chinmoyDebnath/JS30/tree/master/Array%20Cardio%20Day%201)
 5. [x] [Flex Panels Image Gallery](https://github.com/chinmoyDebnath/JS30/tree/master/Flex%20Panel%20Gallery)
-6. [ ] Ajax Type Ahead
+6. [x] [Ajax Type Ahead](https://github.com/chinmoyDebnath/JS30/tree/master/Type%20Ahead)
 7. [ ] Array Cardio, Day 2
 8. [ ] Fun with HTML5 Canvas
 9. [ ] Dev Tools Domination
