@@ -16,7 +16,7 @@ I decided to  follow this [tutorial](https://JavaScript30.com) to enhace my java
 5. [x] [Flex Panels Image Gallery](Flex%20Panel%20Gallery/)
 6. [x] [Ajax Type Ahead](Type%20Ahead/)
 7. [x] [Array Cardio, Day 2](Array%20Cardio%20Day%202/)
-8. [ ] Fun with HTML5 Canvas
+8. [x] [Fun with HTML5 Canvas](Canvas/)
 9. [ ] Dev Tools Domination
 10. [ ] Hold Shift and Check Checkboxes
 11. [ ] Custom Video Player
