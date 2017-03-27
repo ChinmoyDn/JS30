@@ -17,8 +17,8 @@ I decided to  follow this [tutorial](https://JavaScript30.com) to enhace my java
 6. [x] [Ajax Type Ahead](Type%20Ahead/)
 7. [x] [Array Cardio, Day 2](Array%20Cardio%20Day%202/)
 8. [x] [Fun with HTML5 Canvas](Canvas/)
-9. [ ] Dev Tools Domination
-10. [ ] Hold Shift and Check Checkboxes
+9. [x] [ Dev Tools Domination](DevTools/)
+  10. [ ] Hold Shift and Check Checkboxes
 11. [ ] Custom Video Player
 12. [ ] Key Sequence Detection
 13. [ ] Slide in on Scroll
