@@ -18,11 +18,11 @@ I decided to  follow this [tutorial](https://JavaScript30.com) to enhace my java
 7. [x] [Array Cardio, Day 2](Array%20Cardio%20Day%202/)
 8. [x] [Fun with HTML5 Canvas](Canvas/)
 9. [x] [ Dev Tools Domination](DevTools/)
-10. [x] Hold Shift and Check Checkboxes(HoldShiftCheckboxes/)
-11. [x] Custom Video Player(Custom%20Video%20Player/)
-12. [x] Key Sequence Detection(keySequenceDetection/)
-13. [x] Slide in on Scroll(SlideInScroll/)
-14. [x] Object and Arrays - Reference VS Copy(refVsCopy/) 
+10. [x] [Hold Shift and Check Checkboxes](HoldShiftCheckboxes/)
+11. [x] [Custom Video Player](Custom%20Video%20Player/)
+12. [x] [Key Sequence Detection](keySequenceDetection/)
+13. [x] [Slide in on Scroll](SlideInScroll/)
+14. [x] [Object and Arrays - Reference VS Copy](refVsCopy/) 
 15. [ ] LocalStorage and Event Delegation
 16. [ ] Mouse Move Shadow
 17. [ ] Sort Without Articles
