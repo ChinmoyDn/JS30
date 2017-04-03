@@ -7,7 +7,7 @@
 I decided to  follow this [tutorial](https://JavaScript30.com) to enhace my javascript skills and reduce my dependency on js libraries.
 
 
-### `checklist`
+### `Checklist`
 
 1. [x] [JavaScript Drum Kit](drums/)
 2. [x] [JS + CSS Clock](clock/)
@@ -23,8 +23,8 @@ I decided to  follow this [tutorial](https://JavaScript30.com) to enhace my java
 12. [x] [Key Sequence Detection](keySequenceDetection/)
 13. [x] [Slide in on Scroll](SlideInScroll/)
 14. [x] [Object and Arrays - Reference VS Copy](refVsCopy/) 
-15. [ ] LocalStorage and Event Delegation
-16. [ ] Mouse Move Shadow
+15. [ ] LocalStorage and Event Delegation 
+16. [ ] Mouse Move Shadow 
 17. [ ] Sort Without Articles
 18. [ ] Tally String Times with Reduce
 19. [ ] Webcam Fun
