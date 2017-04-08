@@ -22,9 +22,9 @@ I decided to  follow this [tutorial](https://JavaScript30.com) to enhace my java
 11. [x] [Custom Video Player](Custom%20Video%20Player/)
 12. [x] [Key Sequence Detection](keySequenceDetection/)
 13. [x] [Slide in on Scroll](SlideInScroll/)
-14. [x] [Object and Arrays - Reference VS Copy](refVsCopy/) 
+14. [x] [Object and Arrays - Reference VS Copy](refVsCopy/)
 15. [x] [LocalStorage and Event Delegation](localstorage/)
-16. [ ] Mouse Move Shadow 
+16. [x] [Mouse Move Shadow](MouseMoveShadow/)
 17. [ ] Sort Without Articles
 18. [ ] Tally String Times with Reduce
 19. [ ] Webcam Fun
