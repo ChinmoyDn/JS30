@@ -25,7 +25,7 @@ I decided to  follow this [tutorial](https://JavaScript30.com) to enhace my java
 14. [x] [Object and Arrays - Reference VS Copy](refVsCopy/)
 15. [x] [LocalStorage and Event Delegation](localstorage/)
 16. [x] [Mouse Move Shadow](MouseMoveShadow/)
-17. [ ] Sort Without Articles
+17. [x] [Sort Without Articles](SortWithoutArticles/)
 18. [ ] Tally String Times with Reduce
 19. [ ] Webcam Fun
 20. [ ] Speech Detection
