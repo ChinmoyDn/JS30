@@ -27,7 +27,7 @@ I decided to  follow this [tutorial](https://JavaScript30.com) to enhace my java
 16. [x] [Mouse Move Shadow](MouseMoveShadow/)
 17. [x] [Sort Without Articles](SortWithoutArticles/)
 18. [x] [Tally String Times with Reduce](AddingTime/)
-19. [ ] Webcam Fun
+19. [x] [Webcam Fun](WebcamFun/)
 20. [ ] Speech Detection
 21. [ ] Geolocation based Speedometer and Compass
 22. [ ] Follow Along Link Highlighter
