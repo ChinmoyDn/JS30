@@ -28,7 +28,7 @@ I decided to  follow this [tutorial](https://JavaScript30.com) to enhace my java
 17. [x] [Sort Without Articles](SortWithoutArticles/)
 18. [x] [Tally String Times with Reduce](AddingTime/)
 19. [x] [Webcam Fun](WebcamFun/)
-20. [ ] Speech Detection -- WIP
+20. [x] Speech Detection(SpeechDetection/)
 21. [ ] Geolocation based Speedometer and Compass
 22. [ ] Follow Along Link Highlighter
 23. [ ] Speech Synthesis
