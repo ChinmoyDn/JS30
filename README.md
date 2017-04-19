@@ -32,7 +32,7 @@ I decided to  follow this [tutorial](https://JavaScript30.com) to enhace my java
 21. [x] [ Geolocation based Speedometer and Compass ](Geolocation/)
 22. [x] [ Follow Along Link Highlighter ](Follow_Along_Link_Highlighter/)
 23. [x] [ Speech Synthesis ](SpeechSynthesis/)
-24. [ ] Sticky Nav
+24. [x] Sticky Nav(StickyNav/) - WIP
 25. [ ] Event Capture, Propagation, Bubbling, and Once
 26. [ ] Stripe Follow Along Nav
 27. [ ] Click and Drag
