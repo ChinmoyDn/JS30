@@ -28,12 +28,12 @@ I decided to  follow this [tutorial](https://JavaScript30.com) to enhace my java
 17. [x] [Sort Without Articles](SortWithoutArticles/)
 18. [x] [Tally String Times with Reduce](AddingTime/)
 19. [x] [Webcam Fun](WebcamFun/)
-20. [x] [ Speech Detection ](SpeechDetection/)
-21. [x] [ Geolocation based Speedometer and Compass ](Geolocation/)
-22. [x] [ Follow Along Link Highlighter ](Follow_Along_Link_Highlighter/)
-23. [x] [ Speech Synthesis ](SpeechSynthesis/)
-24. [x] Sticky Nav(StickyNav/)
-25. [ ] Event Capture, Propagation, Bubbling, and Once
+20. [x] [Speech Detection ](SpeechDetection/)
+21. [x] [Geolocation based Speedometer and Compass ](Geolocation/)
+22. [x] [Follow Along Link Highlighter ](Follow_Along_Link_Highlighter/)
+23. [x] [Speech Synthesis ](SpeechSynthesis/)
+24. [x] [Sticky Nav](StickyNav/)
+25. [x] [Event Capture, Propagation, Bubbling, and Once](Events/)
 26. [ ] Stripe Follow Along Nav
 27. [ ] Click and Drag
 28. [ ] Video Speed Controller
