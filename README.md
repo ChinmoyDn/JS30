@@ -34,7 +34,7 @@ I decided to  follow this [tutorial](https://JavaScript30.com) to enhace my java
 23. [x] [Speech Synthesis ](SpeechSynthesis/)
 24. [x] [Sticky Nav](StickyNav/)
 25. [x] [Event Capture, Propagation, Bubbling, and Once](Events/)
-26. [ ] Stripe Follow Along Nav
+26. [x] [Stripe Follow Along Nav](FollowAlongNav/)
 27. [ ] Click and Drag
 28. [ ] Video Speed Controller
 29. [ ] Countdown Timer
