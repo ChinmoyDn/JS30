@@ -35,7 +35,7 @@ I decided to  follow this [tutorial](https://JavaScript30.com) to enhace my java
 24. [x] [Sticky Nav](StickyNav/)
 25. [x] [Event Capture, Propagation, Bubbling, and Once](Events/)
 26. [x] [Stripe Follow Along Nav](FollowAlongNav/)
-27. [ ] Click and Drag
+27. [x] [Click and Drag](ClickAndDrag/)
 28. [ ] Video Speed Controller
 29. [ ] Countdown Timer
 30. [ ] Whack A Mole
