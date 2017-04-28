@@ -38,7 +38,7 @@ I decided to  follow this [tutorial](https://JavaScript30.com) to enhace my java
 27. [x] [Click and Drag](ClickAndDrag/)
 28. [x] [Video Speed Controller](VideoSpeedController/)
 29. [x] [Countdown Timer](CountdownTimer/)
-30. [ ] Whack A Mole
+30. [x] [Whack A Mole](whackAMole/)
 
 
 
